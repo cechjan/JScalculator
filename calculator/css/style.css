@@ -1,0 +1,36 @@
+.bg-col {
+    background-color: rgb(41, 71, 95);
+}
+
+.nadpis {
+    font-size: 60px;
+}
+
+.bg-body {
+    background-color: rgb(36, 37, 37);
+    color: white;
+}
+
+.label-text-first {
+    font-size: 30px;
+}
+
+.label-text-second {
+    font-size: 20px;
+}
+
+.calc-btn {
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.money {
+    font-size: 40px;
+    color: darkblue;
+}
+
+.normal-text {
+    font-size: 25px;
+    margin-top: 15px;
+}
