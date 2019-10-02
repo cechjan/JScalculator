@@ -56,8 +56,12 @@ function calculate(){
         DZND = 4901;
         console.log(DZND);
     }
+
+
     
     let i = Number(hrubaMzda.value);
+
+    if (i < 0) alert('Nejde zadat záporné číslo pro mzdu.');
 
     let SHM = i + ZP2 + SP2;
     console.log(SHM);
